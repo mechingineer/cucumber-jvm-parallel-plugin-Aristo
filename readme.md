@@ -193,3 +193,4 @@ Release Process
 See [Maven Central upload guide](https://maven.apache.org/guides/mini/guide-central-repository-upload.html)
 # cucumber-jvm-parallel-plugin-Aristo
 # cucumber-jvm-parallel-plugin-Aristo
+# cucumber-jvm-parallel-plugin-Aristo
