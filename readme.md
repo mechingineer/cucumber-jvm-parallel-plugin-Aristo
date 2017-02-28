@@ -9,7 +9,7 @@ This is where the cucumber-jvm-parallel-plugin comes in.  This plugin automatica
 
 Usage
 -----
-
+udate
 Add the following to your POM file:
 
 ```xml
